@@ -20,6 +20,7 @@ Suggests:	lua-etree
 Suggests:	lua-sqlite3
 Suggests:	moc
 Suggests:	newsbeuter
+Suggests:	rsstail
 Suggests:	taskcoach
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
